@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1693334042071
+  login: 1693333931615
+money: '0'
+last-account-name: Neon
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: -6843.907970564645
+  y: 69.0
+  z: -5010.051101873388
+  yaw: 304.91650390625
+  pitch: -9.900009155273438
+lastlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: -5974.398408829409
+  y: 81.0
+  z: -5010.083042193096
+  yaw: 26.679351806640625
+  pitch: 5.567407131195068

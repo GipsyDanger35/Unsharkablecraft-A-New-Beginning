@@ -84,4 +84,4 @@ Someone else will make that I'm sure. You can also go put it on the subreddit an
 
 ---
 
-This amazing cool and very awesome Replit was created by yours truly **ayunami2000**. You can find me over on [GitHub](https://github.com/ayunami2000) or on my [website](https://ayunami2000.github.io).
+This amazing cool and very awesome Replit was created by yours truly **ayunami2000**. You can find me over on [GitHub](https://github.com/ayunami2000) or on my [website](https://ayunami2000.github.io)

@@ -4,7 +4,7 @@
 # ~~~ >> smashed together once again by ayunami2000
 # ~~~ >> uwu
 
-unset DISPLAY
+unset DISPLAY7
 
 echo "set -g mouse on" > ~/.tmux.conf
 
@@ -146,4 +146,5 @@ cd ..
 while tmux has-session -t server
 do
   tmux a -t server
+  op kohen21
 done

@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "dabf3d71-d09c-4d39-8e03-1f4bf3ebda77",
+    "name": "_Star_",
+    "created": "2023-09-14 18:21:03 +0000",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "b9087531-3bd9-45b8-94fd-d569253f8764",
+    "name": "Say",
+    "created": "2023-09-12 16:49:21 +0000",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "hey"
+  },
+  {
+    "uuid": "dd99dc0b-4bef-3147-85f5-b40193c0aafc",
+    "name": "13",
+    "created": "2023-09-07 14:42:54 +0000",
+    "source": "xX_Xx",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "9be57aa8-17b5-33c6-abb0-1bdc5c52191e",
+    "name": "DeevYeeish340",
+    "created": "2023-09-12 16:47:03 +0000",
+    "source": "§4Unsharkablegamin§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "b9136bab-90f4-3afe-a07c-3520a95b8f6b",
+    "name": "josh",
+    "created": "2023-09-12 16:46:11 +0000",
+    "source": "§4Unsharkablegamin§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

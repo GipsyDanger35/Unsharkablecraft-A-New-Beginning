@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694608974789
+  login: 1694608558765
+money: '0'
+last-account-name: koolkid48
+logoutlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: -6803.159111671925
+  y: 70.0
+  z: -5107.0772672359935
+  yaw: 317.875732421875
+  pitch: 34.34999465942383
+lastlocation:
+  world: 33d3bf71-1813-44a2-8b11-721fa716c621
+  world-name: world
+  x: -5975.659513307033
+  y: 81.0
+  z: -5009.43595733026
+  yaw: 353.5751953125
+  pitch: 8.099992752075195
